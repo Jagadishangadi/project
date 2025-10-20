@@ -6,3 +6,4 @@ if a >= 0:
     print("its positive number")
 else:
     print("its a negative number")
+print("End of test file")
